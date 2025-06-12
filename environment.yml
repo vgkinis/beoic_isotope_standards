@@ -6,6 +6,7 @@ dependencies:
   - python=3.11   # or 3.10 / 3.9 if you prefer
   - pandas
   - numpy
+  - openpyxl
   - matplotlib
   - seaborn
   - scipy
