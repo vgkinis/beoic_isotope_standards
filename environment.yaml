@@ -1,0 +1,14 @@
+name: binder-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11   # or 3.10 / 3.9 if you prefer
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - scipy
+  - tabulate
+  - jupyterlab
+  - notebook
